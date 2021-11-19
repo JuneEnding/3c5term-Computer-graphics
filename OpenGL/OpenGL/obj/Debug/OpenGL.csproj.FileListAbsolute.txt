@@ -1,0 +1,17 @@
+C:\Users\uyron\source\repos\OPEN_GL\OpenGL\OpenGL\bin\Debug\OpenGL.exe.config
+C:\Users\uyron\source\repos\OPEN_GL\OpenGL\OpenGL\bin\Debug\OpenGL.exe
+C:\Users\uyron\source\repos\OPEN_GL\OpenGL\OpenGL\bin\Debug\OpenGL.pdb
+C:\Users\uyron\source\repos\OPEN_GL\OpenGL\OpenGL\bin\Debug\Tao.FreeGlut.dll
+C:\Users\uyron\source\repos\OPEN_GL\OpenGL\OpenGL\bin\Debug\Tao.OpenGl.dll
+C:\Users\uyron\source\repos\OPEN_GL\OpenGL\OpenGL\bin\Debug\Tao.Platform.Windows.dll
+C:\Users\uyron\source\repos\OPEN_GL\OpenGL\OpenGL\bin\Debug\Tao.FreeGlut.xml
+C:\Users\uyron\source\repos\OPEN_GL\OpenGL\OpenGL\bin\Debug\Tao.OpenGl.xml
+C:\Users\uyron\source\repos\OPEN_GL\OpenGL\OpenGL\bin\Debug\Tao.Platform.Windows.xml
+C:\Users\uyron\source\repos\OPEN_GL\OpenGL\OpenGL\obj\Debug\OpenGL.csprojAssemblyReference.cache
+C:\Users\uyron\source\repos\OPEN_GL\OpenGL\OpenGL\obj\Debug\OpenGL.MainForm.resources
+C:\Users\uyron\source\repos\OPEN_GL\OpenGL\OpenGL\obj\Debug\OpenGL.Properties.Resources.resources
+C:\Users\uyron\source\repos\OPEN_GL\OpenGL\OpenGL\obj\Debug\OpenGL.csproj.GenerateResource.cache
+C:\Users\uyron\source\repos\OPEN_GL\OpenGL\OpenGL\obj\Debug\OpenGL.csproj.CoreCompileInputs.cache
+C:\Users\uyron\source\repos\OPEN_GL\OpenGL\OpenGL\obj\Debug\OpenGL.csproj.CopyComplete
+C:\Users\uyron\source\repos\OPEN_GL\OpenGL\OpenGL\obj\Debug\OpenGL.exe
+C:\Users\uyron\source\repos\OPEN_GL\OpenGL\OpenGL\obj\Debug\OpenGL.pdb
